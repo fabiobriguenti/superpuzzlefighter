@@ -1,4 +1,4 @@
-superpuzzlefighter
+Super puzzle Fighter
 ==================
 
 A port of the game Super Puzzle Fighter in Python.
